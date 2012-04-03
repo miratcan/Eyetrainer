@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Application;Graphics;GTK;
+Encoding=UTF-8
+Exec=eyetrainer
+GenericName=Eye Trainer
+GenericName[tr]=Göz Eğitimcisi
+Icon=eyetrainer
+Name=Eye Trainer
+Name[tr]=Göz Eğitimcisi
+Type=Application

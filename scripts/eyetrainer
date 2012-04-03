@@ -1,0 +1,2 @@
+#!/bin/bash
+exec python -O /usr/share/eyetrainer/main.py $@

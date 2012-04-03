@@ -1,0 +1,58 @@
+<questionset>
+	<image file="1.jpg" md5sum = "b248ef0a4e5b06147565de172b8589c4">
+		<question lang = "tr" string = "Eser kime aittir?" answer = "Leonardo Da Vinci" />
+	</image>
+
+	<image file="melihgokcek.jpg" md5sum = "">
+		<question lang = "tr" string = "Fotoğraftaki kişinin adı nedir?" answer = "Melih Gökçek" />
+		<question lang = "tr" string = "Fotoğraftaki hangi ilimizde belediye başkanlığı yapmıştır?" answer = "Ankara" />
+	</image>
+
+	<image file="ferrarilogo.png">
+		<question lang = "tr" string = "Bu neyin logosudur?" answer = "Ferrari" />
+		<question lang = "tr" string = "Bu logonun üzerindeki S ve H harflerinin anlamı nedir?" answer = "Scuderia Ferrari" />
+		<question lang = "tr" string = "Bu logoda kaç renk kullanılmıştır?" answer = "Dört" />
+	</image>
+
+	<image file="obama.jpg">
+		<question lang = "tr" string = "Resimdeki Amerikan başkanının adı nedir?" answer = "Barrack Hussein Obama" />
+		<question lang = "tr" string = "Resimdeki kişinin ünvanı nedir?" answer = "Amerikan Başkanı" />
+		<question lang = "tr" string = "Amerikan bayrağında kaç yıldız gözükmektedir?" answer = "Dokuz (9)" />
+	</image>
+
+	<image file="heathladger.jpg">
+		<question lang = "tr" string = "Bu hangi filmden alınmış bir karedir?" answer = "Batman Karaşovalye" />
+		<question lang = "tr" string = "Oyuncunun adı nedir?" answer = "Heath Ladger" />
+	</image>
+
+	<image file="losclimas.jpg">
+		<question lang = "tr" string = "Afişi gözüken filmin adı nedir?" answer = "Los Climas (İklimler)" />
+		<question lang = "tr" string = "Afişi gözüken filmin yönetmeni kimdir?" answer = "Nuri Bilge Ceylan" />
+		<question lang = "tr" string = "Fotoğrafta kaç tane ev gözükmektedir?" answer = "İki" />
+	</image>
+
+	<image file="mitsubishilogo.png">
+		<question lang = "tr" string = "Bu logo hangi firmaya aittir?" answer = "Mitshubisi" />
+	</image>
+
+	<image file="bluetoothlogo.png">
+		<question lang = "tr" string = "Bu logo neyi ifade eder?" answer = "BlueTooth" />
+	</image>
+
+	<image file="subarulogo.png">
+		<question lang = "tr" string = "Bu logo hangi firmaya aittir?" answer = "Subaru" />
+		<question lang = "tr" string = "Logoda kaç tane yıldız vardır?" answer = "Altı" />
+	</image>
+
+	<image file="007logo.jpg">
+		<question lang = "tr" string = "Bu logo kaç beyaz parçadan oluşmaktadır?" answer = "5" />
+	</image>
+
+	<image file="frankfurtkitapfuar.png">
+		<question lang = "tr" string = "Afişi görülen, Türkiye'nin 2008 de konuk olarak katıldığı fuarın adı nedir?" answer = "Frankfurt Kitap Fuarı" />
+	</image>
+
+	<image file="nuribilgeceylan.jpg">
+		<question lang = "tr" string = "Fotoğraftaki kişi kimdir?" answer = "Nuri Bilge Ceylan" />
+	</image>
+</questionset>
